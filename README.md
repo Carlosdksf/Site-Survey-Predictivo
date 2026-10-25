@@ -1,11 +1,5 @@
 # Site-Survey-Predictivo
-Proyecto escolar de estudio de sitio para la evaluación del espacio físico para planificar, optimizar y solucionar en una red inalámbrica. 
-
-Los planos pertenecen a portafolios de coorporativos de arquitectura siendo los siguentes:
-
-ARQA - Plano BASF.
-
-Aquitectura paranamericana - Plano SIEMENS.
+Proyecto académico enfocado en el análisis de espacios físicos y la planificación de una infraestructura de red inalámbrica para edificios corporativos. El objetivo es identificar las necesidades de conectividad y establecer criterios para la distribución de puntos de acceso (AP), considerando la cobertura, la capacidad de usuarios y el rendimiento.
 
 # Resumen del proyecto.
 
@@ -95,3 +89,12 @@ puertas de accesos en cristal, materiales: piso falso, alfombra modular lees car
 seaflower, zócalo vinílico, plafón modular acústico, plafón v-100, muros de block, muros de
 tablaroca, vidrio, películas para vidrio glass films, pintura ecológica para muros, persianas,
 carpinterías a medida
+
+# Documentación del proyecto
+
+Documentacion del site survey predictivo.pdf 
+
+Planos del edificio BASF.pptx
+
+Planos del edificios SIEMENS.pptx
+
